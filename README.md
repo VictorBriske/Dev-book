@@ -13,7 +13,7 @@ Esta é uma API desenvolvida em Go (Golang) para estudos, com funcionalidades re
 ### 1. Clonar o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git](https://github.com/VictorBriske/Dev-book
+git clone https://github.com/VictorBriske/Dev-book
 cd Dev-book
 ```
 
